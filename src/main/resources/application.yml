@@ -1,0 +1,7 @@
+quarkus:
+  http:
+    port: 8081
+
+folder:
+  scan: "use folder.scan env variable"
+  backup: "use folder.backup env variable"
